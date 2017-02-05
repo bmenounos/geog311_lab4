@@ -1,6 +1,6 @@
 Event	Location	Rc	slope	h	w	area
 1	M-Creek	20	10	2	10	50
-2	M-Creek	25	12	1.4	15	45	
+2	M-Creek	25	12	1.4	15	45
 3	Charles	30	16	1.2	25	30
 4	Charles	40	14	1.6	9.1	42
 5	Charles	70	14	1	15	75
